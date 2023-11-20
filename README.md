@@ -4,6 +4,15 @@ GreenSwarm is a framework for energy-efficient collaborative machine learning th
 This repository provides simulations for centralized, typical swarm learnig, and GreenSwarm networks. 
 For these simulations, neural networks have been employed to train on eight diverse classification datasets.
 
+## Requirements:
+Keras==2.3.1
+matplotlib==3.7.2
+numpy==1.21.6
+numpy==1.24.3
+scikit_learn==1.3.0
+tensorflow==1.14.0
+opencv==4.6.0
+
 ## Options:
 
 ### Dataset:
